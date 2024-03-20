@@ -1,0 +1,16 @@
+node_modules/
+.vscode/chrome/
+coverage
+.env
+uploads/
+
+# for JetBrains IDEs
+.idea/
+
+# for developers to store files in that shouldn't be committed
+local/
+
+lerna-debug.log
+npm-debug.log
+.history
+.eslintcache
